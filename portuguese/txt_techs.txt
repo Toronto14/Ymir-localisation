@@ -1,164 +1,165 @@
 #tech_ptry
-CerÃ¢mica
+Cerâmica
 
 #tech_ptry_dscr_1
-A cerÃ¢mica Ã© o ofÃ­cio de fazer material cerÃ¢mico em potes ou louÃ§as de cerÃ¢mica.
+A cerâmica é o ofício de fazer material cerâmico em vasos ou artigos de cerâmica.
 
 #tech_ptry_dscr_2
-Ã feito atravÃ©s da formaÃ§Ã£o de um corpo de argila em objetos de uma forma necessÃ¡ria e aquecendo-os a altas temperaturas em um forno que remove toda a Ã¡gua da argila, permanentemente endurecendo-a e definindo sua forma. Os potes hermÃ©ticos permitem uma melhor conservaÃ§Ã£o dos alimentos.
+Ela é feita moldando um corpo de argila em objetos de forma desejada e aquecendo-os a altas temperaturas em um forno que retira toda a água da argila, endurecendo-a permanentemente e fixando sua forma. Os potes herméticos permitem uma melhor conservação dos alimentos.
 
 #tech_sedent
 sedentarismo
 
 #tech_sedent_dscr_1
-A PrÃ¡tica de viver em Um Lugar permanentemente. 
+A prática de viver permanentemente em um só lugar. 
 
 #tech_prprt
 Propriedade
 
 #tech_prprt_dscr_1
-O conceito de que as coisas e moradias nÃ£o sÃ£o mais compartilhadas por toda a tribo, mas apenas utilizÃ¡veis ââpor um Porco especÃ­fico.
+O conceito de que as coisas e as habitações não são mais compartilhadas por toda a tribo, mas apenas utilizáveis por um Porco específico.
 
 #tech_eldcncl
-Conselho dos anciÃ£os
+Conselho dos anciões
 
 #tech_eldcncl_dscr_1
-Um conselho de anciÃ£os de Cada FamÃ­lia da tribo Que se reunem para resolver Problemas e Conflitos Dentro da tribo: velhos SÃ¡bios Que conseguiram Permanecer vivo AtÃ© Aqui Certeza merecem Algum Respeito e vale a pena Ouvir.
+Um conselho de anciãos de todas as famílias da tribo que se reúnem para resolver questões e conflitos dentro da tribo: os porcos velhos e sábios que conseguiram se manter vivos até aqui certamente merecem algum respeito e merecem ser ouvidos.
 
 #tech_privl
-privilegios
+privilégios
 
 #tech_privl_dscr_1
-Alguns Porcos sÃ£o mais valiosos do que outros, e certamente seu tempo Ã© precioso demais para ser gasto trabalhando. Eles ainda precisam de coisas para viver. Porque eles gastam seu tempo para o bem de todos, todos devem participar e dar um pouco do trabalho deles para eles!
+Alguns Porcos são mais dignos do que outros, e certamente seu tempo é precioso demais para ser gasto trabalhando. Mas eles ainda precisam de coisas para viver. Porque eles gastam seu tempo para o bem de todos, todos deveriam participar e dar um pouco de seu trabalho a eles!
 
 #tech_lead
-LideranÃ§a
+Liderança
 
 #tech_lead_dscr_1
-Um Porco para governar todos. Com certeza Ã© mais eficiente do que perder tempo discutindo com todos da tribo sobre qual lama Ã© a melhor lama.
+Um Porco para governá-los a todos. Com certeza é mais eficiente do que perder tempo discutindo com todos da tribo sobre qual lama é a melhor lama.
 
 #tech_gov
-GovernanÃ§a
+Governança
 
 #tech_gov_dscr_1
-Um grupo de Porcos exclusivamente dedicado a gerenciar e controlar a comunidade. Eles gastam seu tempo farejando coisas e, ocasionalmente, resolvendo problemas ou tomando decisÃµes para toda a populaÃ§Ã£o.
+Um grupo de Porcos exclusivamente dedicado a gerenciar e controlar a comunidade. Eles gastam seu tempo farejando coisas e, ocasionalmente, resolvendo problemas ou tomando decisões para toda a população.
 
 #tech_guard
 guardas
 
 #tech_guard_dscr_1
-Os guardas reforÃ§am a autoridade do governo, patrulhando as cidades e protegendo o governo e seus funcionÃ¡rios.
+Os guardas reforçam a autoridade do governo, patrulhando as cidades e protegendo o governo e seus funcionários.
 
 #tech_tribut
-ContribuiÃ§Ã£o
+Contribuições
 
 #tech_tribut_dscr_1
-O governo estÃ¡ cheio de porcos dedicando todo o seu tempo para administrar as coisas: eles nÃ£o tÃªm tempo para o trabalho humilde dos camponeses! Mas Ã© claro que eles ainda precisam comer e ter coisas brilhantes e bonitas. Portanto, Ã© natural que todos os demais doem uma parcela de seu trabalho Ã  "comunidade" pelo bem comum de todos.
+O governo está cheio de porcos dedicando todo o seu tempo para administrar as coisas: eles não têm tempo para o trabalho humilde dos camponeses! Mas é claro que eles ainda precisam comer, e ter coisas boas e brilhantes. Portanto, é natural que todos os outros dêem uma parte de seu trabalho à "comunidade" para o bem comum de todos.
 
 #tech_transac
-Acompanhamento de TransaÃ§Ãµes
+Acompanhamento de Transações
 
 #tech_transac_dscr_1
-Mantemos o controle de estoques, transaÃ§Ãµes e pagamentos, fazendo pequenas marcas em argila molhada de uma maneira especial, conhecida apenas por alguns Porcos que chamamos de escribas. NÃ£o hÃ¡ mais necessidade de lembrar de tudo! Isso torna a gestÃ£o da cidade muito mais fÃ¡cil, e podemos garantir que as coisas nÃ£o sejam mais "esquecidas" ou "perdidas" ...
+Mantemos o controle de estoques, transações e pagamentos, fazendo pequenas marcas em argila molhada de uma maneira especial, conhecida apenas por alguns Porcos que chamamos de escribas. Não há mais necessidade de lembrar de tudo! Isso torna a gestão da cidade muito mais fácil, e podemos garantir que as coisas não sejam mais "esquecidas" ou "perdidas" ...
 
 #tech_tax
-TributaÃ§Ã£o
+Tributação
 
 #tech_tax_dscr_1
-Um Melhor Sistema de TributaÃ§Ã£o permitindo Uma Recolha Mais Eficiente.
+Um Melhor Sistema de Tributação permitindo Uma Recolha Mais Eficiente.
 
 #tech_laws
-CÃ³digo de leis
+Código de leis
 
 #tech_laws_dscr_1
-Agora temos um conjunto universal de regras para definir o que Ã© permitido e o que nÃ£o estÃ¡ em nossa sociedade, de modo que todos estejam razoavelmente sujeitos Ã s mesmas regras e penalidades.
+Temos agora um conjunto universal de regras para definir o que é permitido e o que não está em nossa sociedade, de modo que todos estejam razoavelmente sujeitos às mesmas regras e penalidades.
 
 #tech_barter
-permutar
+Escambo
 
 #tech_barter_dscr_1
-As pessoas agora vÃ£o negociar commodities de valores equivalentes em vez de serviÃ§os de 'presentear', enquanto esperam retornos posteriores. Isso reduz os conflitos entre comunidades maiores que nÃ£o conseguem acompanhar um ao outro.
+As pessoas agora comercializarão mercadorias de valores equivalentes em vez de "presentear" os produtos, ao mesmo tempo em que esperam receber mais tarde os pagamentos. Isto reduz os conflitos entre comunidades maiores que não conseguem acompanhar umas às outras.
 
 #tech_currcy
 Moeda
 
 #tech_currcy_dscr_1
-A escolha de uma commodity comum, como lingotes de metal, para fazer todas as trocas, facilitando a negociaÃ§Ã£o, bem como o estoque e a avaliaÃ§Ã£o da riqueza.
+
+A escolha de uma mercadoria comum, como lingotes metálicos, para fazer todas as trocas, facilitando o comércio, bem como a cotação e a medição da riqueza.
 
 #tech_coing
 Cunhagem
 
 #tech_coing_dscr_1
-A GARANTIDO Governo e Moeda padronizada para Aumentar a ConfianÃ§a e facilidade de Trocas.
+A GARANTIDO Governo e Moeda padronizada para Aumentar a Confiança e facilidade de Trocas.
 
 #tech_market
 Mercado
 
 #tech_market_dscr_1
-Os Mercados SÃ£o Lugares com Comerciantes Especializados Que mantÃªm Contato com Cidades Estrangeiras Necessidades e Ofertas, permitindo fÃ¡cilmente comprar e vender Mercadorias A Partir de Cidades de SUA Rede comercial.
+Mercados são lugares com comerciantes especializados que mantêm contato com as necessidades e ofertas das cidades estrangeiras, permitindo facilmente comprar e vender mercadorias das cidades de sua rede comercial.
 
 #tech_portage
-carreto
+Transporte
 
 #tech_portage_dscr_1
-Podemos Ã¡gora Ter PESSOAS Especializadas no TRANSPORTE DE MERCADORIAS atraves de TerritÃ³rios para garantir Uma TransferÃªncia constante de Recursos em vez de confiar em caravanas de Uma SÃ³ vez manuais.
+Agora podemos ter pessoas especializadas em transportar mercadorias através de territórios para garantir uma transferência constante de recursos em vez de depender de caravanas manuais únicas.
 
 #tech_packanim
 Animais de carga
 
 #tech_packanim_dscr_1
-Podemos Ã¡gora USAR Alguns animais para Transportar carga, colocando Sacos Pesados âânas Costas e Levando-os a pÃ©.
+Agora podemos usar alguns animais para transportar carga, colocando sacos pesados nas costas e conduzindo-os a pé.
 
 #tech_tradewg
-VagÃµes Comerciais
+Vagões Comerciais
 
 #tech_tradewg_dscr_1
 Agora usamos Carrinhos de rodas puxadas POR animais para Transportar Grandes quantidades de carga.
 
 #tech_herb
-Fitoterapia
+Herbalismo
 
 #tech_herb_dscr_1
-O estudo de plantas, frutos e raÃ­zes e seus efeitos sobre as pessoas, para curar doenÃ§as e outras afliÃ§Ãµes da carne.
+O estudo das plantas, frutos e raízes e seus efeitos nas pessoas, para curar doenças e outras aflições da carne.
 
 #tech_pictgrm
 Escrita pictograma
 
 #tech_pictgrm_dscr_1
-Escrevendo Sobre Objetos, AÃ§Ãµes e Ideias com Sinais de Imagem.
+Escrever sobre objetos, ações e idéias com sinais de imagem.
 
 #tech_phonetic
-Escrita fonÃ©tica
+Escrita fonética
 
 #tech_phonetic_dscr_1
-Escrevendo com um nÃºmero limitado de sinais, um alfabeto, representando sons falados em vez de coisas.
+Escrevendo com um número limitado de sinais, um alfabeto, representando sons falados em vez de coisas.
 
 #tech_educ
-EducaÃ§Ã£o
+Educação
 
 #tech_educ_dscr_1
-O processo de facilitar a aprendizagem e a transmissÃ£o de conhecimento, tradiÃ§Ãµes, habilidades, valores, crenÃ§as e hÃ¡bitos.
+O processo de facilitar a aprendizagem e a transmissão de conhecimento, tradições, habilidades, valores, crenças e hábitos.
 
 #tech_diagnos
-DiagnÃ³stico
+Diagnóstico
 
 #tech_diagnos_dscr_1
-O Processo de DeterminaÃ§Ã£o de qua DoenÃ§a OU CondiÃ§Ã£o Explica sÃ­ntomas e Sinais de uma pessoa. 
+O processo de determinar qual doença ou condição explica os sintomas e sinais de uma pessoa. 
 
 #tech_academ
 Academia
 
 #tech_academ_dscr_1
-InstituiÃ§Ãµes de ensino superior, e de InvestigaÃ§Ã£o.
+Instituições de ensino superior e de pesquisa.
 
 #tech_philo
 Filosofia
 
 #tech_philo_dscr_1
-O Estudo dos Problemas Gerais e de Fundamentos Sobre assuntos Como um existencia, Conhecimento, Valores, RazÃ£o, mente e linguagem.
+O Estudo dos Problemas Gerais e de Fundamentos Sobre assuntos Como um existencia, Conhecimento, Valores, Razão, mente e linguagem.
 
 #tech_aritmet
-aritmÃ©ticas
+aritméticas
 
 #tech_aritmet_dscr_1
 O Estudo dos NÃºmeros, especialmente como Propriedades das OperaÃ§Ãµes Tradicionais de adiÃ§Ã£o, subtracÃ§Ã£o, MultiplicaÃ§Ã£o e divisÃ£o.
