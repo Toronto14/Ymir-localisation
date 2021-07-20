@@ -1,44 +1,46 @@
 #idea_ptry
-The mud baskets
+Os cestos de barro
 
 #idea_ptry1_1
-A piglet playing in the mud noticed a special type of maleable mud that dried under the sun and started playing with it. His mother is a basket crafter for the tribe. Unfortunately, her baskets are not the finest ones there is, and gatherers often complain about their crude weaving: cereals often slip through and rats manage to steal the rest.
+Um leitão brincando na lama notou um tipo especial de lama maleável que secou sob o sol e começou a brincar com ela. Sua mãe é uma artesão de cestas para a tribo. Infelizmente, suas cestas não são as melhores que existem, e os coletores muitas vezes reclamam de sua tecelagem bruta: os cereais muitas vezes escapam e os ratos conseguem roubar o resto.
 
 #idea_ptry1_2
-Upon seeing her mud covered son coming back, she had the idea to cover one of her baskets with it and let it dry in a sunny afternoon, making it more hermetic and putting an end to the gatherers' critics.
+Ao ver seu filho coberto de lama voltando, ela teve a idéia de cobrir uma de suas cestas com ela e deixá-la secar em uma tarde ensolarada, tornando-a mais hermética e pondo um fim às críticas dos coletores.
 
 #idea_ptry1_3
-Unfortunately, the basket didnt last long and the mud quickly cracked and fell from the basket's frame. She would like to request the help of a few tribespigs to go collect more of this mud and time to try make more of these special baskets. Near the tribe's bondfire at nights, its often hotter than a sunny summer afternoon: she thinks that we should try placing the special mud near a very big fire to make it dry faster and harder.
+Infelizmente, a cesta não durou muito e a lama rapidamente rachou e caiu da moldura da cesta. Ela gostaria de pedir a ajuda de um grupo de porcos da tribo para ir recolher mais desta lama e tempo para tentar fazer mais destas cestas especiais. Perto da fogueira da tribo à noite, muitas vezes mais quente que uma tarde ensolarada de verão: ela acha que devemos tentar colocar a lama especial perto de uma fogueira muito grande para que seque mais rápido e com mais força.
+
 
 #proj_ptry1_1
-Let's try to make baskets of mud, and to find out how to dry them properly so that they don't crumble away in a few days.
+Vamos tentar fazer cestas de lama e descobrir como secá-las adequadamente para que não se desfaçam em poucos dias.
 
 #proj_ptry1_2
-These baskets could be much easier and faster to make. More hermetic than the woven ones, it would help the tribe store things!
+Estas cestas poderiam ser muito mais fáceis e rápidas de fazer. Mais herméticas do que as tecidas, ajudariam a tribo a armazenar as coisas!
 
 #proj_ptry1_3
-We need some tribespigs to gather some of this special mud and learn how to shape it in baskets and how to put them in fire so it hardens.
+Precisamos de alguns porcos da tribo para recolher um pouco dessa lama especial e aprender como moldá-la em cestas e colocá-los no fogo para que ela endureça.
 
 #idea_sedent
-Sedentary life
+Vida sedentária
 
 #idea_sedent_1
-On one evening by the tribe's camp fire, Grooeky Lazysnout spoke in these words: 
+Em uma noite junto ao fogo do acampamento da tribo, Grooeky Lazysnout falou com estas palavras: 
 
 #idea_sedent_2
-<< We have everything we need here! What if we stopped moving around like the ancients, and stayed for good in this territory ? I am tired of mounting and dismounting these tents every day! By staying in the same place we could accumulate more tools and more things without having to worry about carrying them! >>
+<< Temos tudo o que precisamos aqui! E se parássemos de nos movimentar como os antepassados, e permanecêssemos de vez neste território? Estou cansado de montar e desmontar estas tendas todos os dias! Ficando no mesmo lugar, poderíamos acumular mais ferramentas e mais coisas sem ter que nos preocupar em carregá-las! >>
 
 #proj_sedent_1
-What if we decided to settle for good an remain in the same territory ? We could cumulate more things and more tools by not having to worry about having enough tribe's pigs to carry everything everytime we move!
+E se decidíssemos nos contentar de vez com uma permanência no mesmo território? Poderíamos acumular mais coisas e mais ferramentas, não tendo que nos preocupar em ter porcos da tribo suficientes para carregar tudo sempre que nos mudamos!
 
 #idea_prprt
-This is mine
+Isto é meu
 
 #idea_prprt_1
-The tribe is now growing bigger and, since we decided to settle down, we now have many objects and tools: much more than what the ancients used to have in their nomadic lives! But a strange thing is happening as this abundance of things seems to be creating tensions amongst us. Some porcos who spent a lot of time crafting things resent having to share them with others they dont feel are doing as much as them. 
+A tribo está agora crescendo e, desde que decidimos nos estabelecer, temos agora muitos objetos e ferramentas: muito mais do que o que os antepassados costumavam ter em suas vidas nômades! Mas uma coisa estranha está acontecendo, pois esta abundância de coisas parece estar criando tensões entre nós. Alguns porcos que passavam muito tempo fazendo as coisas com ressentimento por terem que compartilhá-las com outros que não acham que estão fazendo tanto quanto eles. 
+
 
 #idea_prprt_2
-One Porco is proposing that we all agree not to take things from another family without their permission. A strange concept... but these are strange times. 
+Um Porco está propondo que todos nós concordemos em não tirar coisas de outra família sem sua permissão. Um conceito estranho... mas estes são tempos estranhos. 
 
 #proj_prprt_1
 Many people of the tribe are resenting having to share all their things with each other and its creating tensions. 
@@ -299,7 +301,7 @@ Linking geometry and algebra
 Algebra and Geometry have been coexisting for ever, but are not well linked. We have no way of harnessing the analytical power of algebra to describe geometry. 
 
 #idea_calculus_2
-But one of our Academicians, Ren� Despigs, had this revolutionnary idea: what if we connected them both by describing positions on a plane using a pair of numbers associated with a horizontal axis and a vertical axis? By describing the horizontal measurement with x's and the vertical measurement with y's, we could give geometric objects such as lines and circles representation as algebraic equations.
+But one of our Academicians, René Despigs, had this revolutionnary idea: what if we connected them both by describing positions on a plane using a pair of numbers associated with a horizontal axis and a vertical axis? By describing the horizontal measurement with x's and the vertical measurement with y's, we could give geometric objects such as lines and circles representation as algebraic equations.
 
 #proj_calculus_1
 By giving geometric objects such as lines,circles and curves representation as algebraic equations, we could study the very idea of 'continuous change' itself.
